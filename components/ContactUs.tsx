@@ -81,7 +81,7 @@ export default function ContactUs() {
                     </div>
                   </div>
                 </div>
-                <div className="px-4 py-3 sm:px-6">
+                <div className="px-4 py-3 sm:px-0">
                   <button
                     type="submit"
                     className="w-full justify-center py-2 px-4 rounded-full font-semibold text-slate-900 bg-acquamarine hover:-translate-y-1 duration-300 hover:ease-in-out hover:text-white"

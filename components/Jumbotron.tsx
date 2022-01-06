@@ -5,7 +5,9 @@ export default function Jumbotron() {
     <header className="flex flex-row content-center bg-jumbo bg-cover py-8 text-center m-auto">
       <div className="px-4 w-full sm:mx-8 m-auto">
         <div className="w-full text-left">
-          <Image src="/img/logo.png" width={80} height={80} alt="Logo" />
+          <a href="#">
+            <Image src="/img/logo.png" width={80} height={80} alt="Logo" />
+          </a>
         </div>
         <h1 className="font-sans font-bold text-white text-7xl leading-[1.1] my-12">
           A New Way

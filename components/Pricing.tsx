@@ -64,7 +64,7 @@ export default function Pricing() {
               </ul>
               <a
                 href="#"
-                className="inline-block cursor-pointer py-3 px-7 my-6 rounded-full font-bold border-2 border-slate-900 hover:text-white hover:bg-slate-900 hover:-translate-y-1 duration-300 hover:ease-in-out"
+                className="inline-block cursor-pointer py-3 px-7 my-6 rounded-full font-bold border-2 border-slate-900 hover:text-white hover:bg-slate-900 hover:-translate-y-2 duration-300 hover:ease-in-out"
               >
                 Get Free
               </a>
